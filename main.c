@@ -1,3 +1,4 @@
+#include "HS3002_Sensor.h"
 void app_main(void)
 {
     int i2c_master_port =  I2C_MASTER_NUM ;
